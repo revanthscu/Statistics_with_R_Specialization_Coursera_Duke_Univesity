@@ -10,23 +10,20 @@
     - 1710
     
 
-# What command would you use to extract just the counts of girls born? 
+2. What command would you use to extract just the counts of girls born? 
+    -  girls
 
 
-
-  -  girls
-
-
-  -  arbuthnot$girls
+    -  arbuthnot$girls
 
 
-  -  `$girls`
+   -  >$girls
 
 
-  -  arbuthnot$boys
+   -  arbuthnot$boys
 
 
-  -  arbuthnot[girls]
+   -  arbuthnot[girls]
   
   # Which of the following best describes the number of girls baptised over the years included in this dataset? 
   

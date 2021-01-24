@@ -1,7 +1,6 @@
 # Week 1 Lab: Introduction to R and RStudio
 
-
-##1. How many variables are included in this data set (data set: arbuthnot)?
+1. How many variables are included in this data set (data set: arbuthnot)?
   
     - 2
     - 82 
@@ -10,7 +9,7 @@
     - 1710
     
 
-##2. What command would you use to extract just the counts of girls born? 
+2. What command would you use to extract just the counts of girls born? 
     -  girls
 
 

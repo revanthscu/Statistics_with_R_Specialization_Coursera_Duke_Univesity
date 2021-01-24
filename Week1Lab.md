@@ -2,8 +2,9 @@
 
 
 1. How many variables are included in this data set (data set: arbuthnot)?
-  - 2
-  > blockquote
+  - 
+    - 2
+    - > blockquote
 
 # What command would you use to extract just the counts of girls born? 
 

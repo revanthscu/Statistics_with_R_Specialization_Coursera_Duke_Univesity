@@ -6,7 +6,7 @@
     - annual income
 
 
-    - number of siblings
+    - >number of siblings
 
 
     - phone number
@@ -32,7 +32,9 @@ explanatory: type of light (categorical with 3 levels)
 response: exam performance
 ```
 
-   - >Answer : Option 3
+   - >Answer : Option 4
+   
+   
 3. In a study published in 2011 in The Proceedings of the National Academy of Sciences, researchers randomly assigned 120 elderly men and women who volunteered to be a part of this study (average age mid-60s) to one of two exercise groups. One group walked around a track three times a week; the other did a variety of less aerobic exercises, including yoga and resistance training with bands. After a year, brain scans showed that among the walkers, the hippocampus (part of the brain responsible for forming memories) had increased in volume by about 2% on average; in the others, it had declined by about 1.4%. Which of the following is false?
 
 
@@ -40,7 +42,7 @@ response: exam performance
     - A causal link between walking and expansion of the hippocampus can be inferred based on these results.
 
 
-    - The results of this study can be generalized to all elderly.
+    - >The results of this study can be generalized to all elderly.
 
 
     - The explanatory variable is the type of exercise, and the response variable is the change in volume of the hippocampus.
@@ -51,7 +53,7 @@ response: exam performance
     - The survey is unlikely to have any bias because all parents were mailed a survey.
 
 
-    - It is possible that 80% of the parents of high school students disagree with the policy change.
+    - >It is possible that 80% of the parents of high school students disagree with the policy change.
 
 
     - The school district has strong support from parents to move forward with the policy approval.
@@ -71,7 +73,7 @@ response: exam performance
     - stratified sampling
 
 
-    - multistage sampling
+    - >multistage sampling
 
 6. Which of the following is not one of the four principles of experimental design?
 
@@ -85,7 +87,7 @@ response: exam performance
     - block
     
 
-    - cluster
+    - >cluster
 
 7. Which of the following is one of the four principles of experimental design?
 
@@ -96,4 +98,4 @@ response: exam performance
     - stratify
 
 
-    - control
+    - >control

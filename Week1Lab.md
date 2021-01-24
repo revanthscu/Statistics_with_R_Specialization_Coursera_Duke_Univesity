@@ -1,4 +1,4 @@
-#How many variables are included in this data set (data set: arbuthnot)?
+# How many variables are included in this data set (data set: arbuthnot)?
 
 a. 2
 

@@ -15,9 +15,9 @@ phone number
 
 
 ```
-explanatory: exam performance
+>explanatory: exam performance
 
-response: type of light (categorical with 3 levels)
+>response: type of light (categorical with 3 levels)
 ```
 ```
 explanatory: dimly lit, yellow, white fluorescent

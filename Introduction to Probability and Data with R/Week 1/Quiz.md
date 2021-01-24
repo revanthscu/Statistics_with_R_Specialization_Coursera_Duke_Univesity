@@ -14,7 +14,7 @@ phone number
 2. A study is designed to test the effect of type of light on exam performance of students. 180 students are randomly assigned to three classrooms: one that is dimly lit, another with yellow lighting, and a third with white fluorescent lighting, and given the same exam. Which of the following correctly identifies the variables used in the study as explanatory and response?
 
 
-explanatory: exam performance
+```explanatory: exam performance
 
 response: type of light (categorical with 3 levels)
 

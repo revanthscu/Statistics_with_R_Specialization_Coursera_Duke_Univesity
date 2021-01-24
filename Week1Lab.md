@@ -1,7 +1,7 @@
 # Week 1 Lab: Introduction to R and RStudio
 
 
-1. How many variables are included in this data set (data set: arbuthnot)?
+##1. How many variables are included in this data set (data set: arbuthnot)?
   
     - 2
     - 82 
@@ -10,7 +10,7 @@
     - 1710
     
 
-2. What command would you use to extract just the counts of girls born? 
+##2. What command would you use to extract just the counts of girls born? 
     -  girls
 
 
@@ -81,7 +81,7 @@
     -  Every year there are more girls born than boys.
 
 
-    -  Every year there are more boys born than girls.
+    -  >Every year there are more boys born than girls.
 
 
     -  Half of the years there are more boys born, and the other half more girls born.
@@ -90,7 +90,7 @@
 7. Calculate the boy-to-girl ratio each year, and store these values in a new variable called prop_boy_girl in the present dataset. Plot these values over time. Which of the following best describes the trend?
 
 
-    -  There is initially a decrease in the boy-to-girl ratio, and then an increase between 1960 and 1970, followed by a decrease.
+    -  >There is initially a decrease in the boy-to-girl ratio, and then an increase between 1960 and 1970, followed by a decrease.
 
 
     -  There appears to be no trend in the boy-to-girl ratio from 1940 to 2013. 
@@ -117,7 +117,7 @@
     -  1961
 
 
-    -  2007
+    -  >2007
 
 
     -  1957

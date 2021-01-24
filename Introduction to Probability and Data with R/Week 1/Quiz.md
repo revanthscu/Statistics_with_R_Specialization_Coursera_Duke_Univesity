@@ -14,25 +14,27 @@ phone number
 2. A study is designed to test the effect of type of light on exam performance of students. 180 students are randomly assigned to three classrooms: one that is dimly lit, another with yellow lighting, and a third with white fluorescent lighting, and given the same exam. Which of the following correctly identifies the variables used in the study as explanatory and response?
 
 
-```explanatory: exam performance
+```
+explanatory: exam performance
 
-response: type of light (categorical with 3 levels)```
-
-
+response: type of light (categorical with 3 levels)
+```
+```
 explanatory: dimly lit, yellow, white fluorescent
 
 response: exam performance
-
-
+```
+```
 explanatory: exam performance
 
 response: dimly lit, yellow, white fluorescent
+```
 
-
+```
 explanatory: type of light (categorical with 3 levels)
 
 response: exam performance
-
+```
 3. In a study published in 2011 in The Proceedings of the National Academy of Sciences, researchers randomly assigned 120 elderly men and women who volunteered to be a part of this study (average age mid-60s) to one of two exercise groups. One group walked around a track three times a week; the other did a variety of less aerobic exercises, including yoga and resistance training with bands. After a year, brain scans showed that among the walkers, the hippocampus (part of the brain responsible for forming memories) had increased in volume by about 2% on average; in the others, it had declined by about 1.4%. Which of the following is false?
 
 

@@ -64,70 +64,61 @@
 
 
 
-Question 5
-Calculate the total number of births for each year and store these values in a new variable called total in the present dataset. Then, calculate the proportion of boys born each year and store these values in a new variable called prop_boys in the same dataset. Plot these values over time and based on the plot determine if the following statement is true or false: The proportion of boys born in the US has decreased over time.
-1 / 1 point
+
+5. Calculate the total number of births for each year and store these values in a new variable called total in the present dataset. Then, calculate the proportion of boys born each year and store these values in a new variable called prop_boys in the same dataset. Plot these values over time and based on the plot determine if the following statement is true or false: The proportion of boys born in the US has decreased over time.
 
 
-True
+
+    -  >True
 
 
-False
-
-Correct
-6.
-Question 6
-Create a new variable called more_boys which contains the value of either TRUE if that year had more boys than girls, or FALSE if that year did not. Based on this variable which of the following statements is true? 
-1 / 1 point
+    -  False
 
 
-Every year there are more girls born than boys.
+6. Create a new variable called more_boys which contains the value of either TRUE if that year had more boys than girls, or FALSE if that year did not. Based on this variable which of the following statements is true? 
 
 
-Every year there are more boys born than girls.
+    -  Every year there are more girls born than boys.
 
 
-Half of the years there are more boys born, and the other half more girls born.
-
-Correct
-7.
-Question 7
-Calculate the boy-to-girl ratio each year, and store these values in a new variable called prop_boy_girl in the present dataset. Plot these values over time. Which of the following best describes the trend?
-1 / 1 point
+    -  Every year there are more boys born than girls.
 
 
-There is initially a decrease in the boy-to-girl ratio, and then an increase between 1960 and 1970, followed by a decrease.
+    -  Half of the years there are more boys born, and the other half more girls born.
 
 
-There appears to be no trend in the boy-to-girl ratio from 1940 to 2013. 
+7. Calculate the boy-to-girl ratio each year, and store these values in a new variable called prop_boy_girl in the present dataset. Plot these values over time. Which of the following best describes the trend?
 
 
-The boy-to-girl ratio has increased over time. 
+    -  There is initially a decrease in the boy-to-girl ratio, and then an increase between 1960 and 1970, followed by a decrease.
 
 
-There is initially an increase in boy-to-girl ratio, which peaks around 1960. After 1960 there is a decrease in the boy-to-girl ratio, but the number begins to increase in the mid 1970s. 
+    -  There appears to be no trend in the boy-to-girl ratio from 1940 to 2013. 
 
 
-There is an initial decrease in the boy-to-girl ratio born but this number appears to level around 1960 and remain constant since then.
-
-Correct
-8.
-Question 8
-In what year did we see the most total number of births in the U.S.? 
-1 / 1 point
+    -  The boy-to-girl ratio has increased over time. 
 
 
-1940
+    -  There is initially an increase in boy-to-girl ratio, which peaks around 1960. After 1960 there is a decrease in the boy-to-girl ratio, but the number begins to increase in the mid 1970s. 
 
 
-1991
+    -  There is an initial decrease in the boy-to-girl ratio born but this number appears to level around 1960 and remain constant since then.
+
+8. In what year did we see the most total number of births in the U.S.? 
 
 
-1961
+
+    -  1940
 
 
-2007
+    -  1991
 
 
-1957
+    -  1961
+
+
+    -  2007
+
+
+    -  1957
   

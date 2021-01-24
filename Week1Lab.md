@@ -1,19 +1,19 @@
 
 # 1. How many variables are included in this data set (data set: arbuthnot)?
 
-    -  2 
+   -  2 
 
 
-  - 82
+   - 82
 
 
-  - 4
+   - 4
 
 
-  - **`3`**
+   - **`3`**
 
 
-  - 1710
+   - 1710
 
 # What command would you use to extract just the counts of girls born? 
 
@@ -48,3 +48,6 @@
 
 
   -  The number of girls baptised has decreased over time. 
+  
+  # How many variables are included in this data set (data set: present)?
+  

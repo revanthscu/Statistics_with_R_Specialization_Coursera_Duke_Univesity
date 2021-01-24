@@ -32,7 +32,7 @@ explanatory: type of light (categorical with 3 levels)
 response: exam performance
 ```
 
-    - >Answer : Option 3
+   - >Answer : Option 3
 3. In a study published in 2011 in The Proceedings of the National Academy of Sciences, researchers randomly assigned 120 elderly men and women who volunteered to be a part of this study (average age mid-60s) to one of two exercise groups. One group walked around a track three times a week; the other did a variety of less aerobic exercises, including yoga and resistance training with bands. After a year, brain scans showed that among the walkers, the hippocampus (part of the brain responsible for forming memories) had increased in volume by about 2% on average; in the others, it had declined by about 1.4%. Which of the following is false?
 
 
